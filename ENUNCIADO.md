@@ -57,7 +57,7 @@ Estes são os requisitos de todas as páginas envolvidas no desafio:
 
 * **Página inicial**:
   * Enquanto os dados dos filmes e/ou personagens estiverem sendo carregados do backend (SWAPI), um "content loading" deve ser exibido conforme especificado no projeto gráfico.
-  * A mudança de página dos carrosséis devem possuir animações.
+  * A mudança de página dos carrosséis devem possuir animação de rolagem tipicas de carrosséis.
   * Os carrosséis devem possuir [rolagem infinita](https://blackpixel.com/writing/Carousel.gif)
   * Sobre o "carrossel de filmes":
     * Exibe no máximo 3 filmes por página do carrossel.
