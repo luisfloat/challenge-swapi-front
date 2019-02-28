@@ -15,7 +15,7 @@ Requisitos **fundamentais**:
 Requisitos **desejáveis**:
 * Legibilidade de código
 * Documentação de código
-* Testes unitários e de integração
+* Testes unitários
 * Familiaridade com ferramentas de desenvolvimento front-end
 
 ## Como Realizar o Desafio
