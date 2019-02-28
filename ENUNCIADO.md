@@ -2,6 +2,22 @@
 
 Este documento apresenta o desafio técnico pelo qual um candidato a desenvolvedor frontend da BRy Tecnologia deve passar durante o processo seletivo.
 
+Os itens em avaliação são divididos em itens fundamentais (cujo não cumprimento implica desqualificação automática) e itens desejáveis (que não são obrigatórios, mas serão observados e pesarão no processo).
+
+Requisitos **fundamentais** para todos os níveis:
+* Interpretação de texto
+* Interpretação de requisitos
+* Capacidade de resolução do problema proposto
+* Atendimento aos requisitos da aplicação
+* Familiaridade com ferramentas de versionamento de código (Git)
+* Estruturação do código
+
+Requisitos **desejáveis** para todos os níveis:
+* Legibilidade de código
+* Documentação de código
+* Testes unitários e de integração
+* Familiaridade com ferramentas de desenvolvimento frontend
+
 ## Como Realizar o Desafio
 
 1. Se não possuir uma conta no [GitLab](https://gitlab.com), cadastre-se.
@@ -22,17 +38,9 @@ Observações:
 * Pedimos que trabalhe apenas no branch *master* - não será relevante, para a avaliação, o uso de branches de desenvolvimento.
 * Se nenhum aviso de finalização for dado até o fim do prazo para cumprimento do desafio, o conteúdo do branch *master* será considerado como a entrega para a avaliação. 
 
-## Requisitos
-
-Os itens em avaliação são divididos em itens fundamentais (cujo não cumprimento implica desqualificação automática) e itens desejáveis (que não são obrigatórios, mas serão observados e pesarão no processo).
+## Requisitos da aplicação
 
 Requisitos **fundamentais**:
-* Interpretação de texto
-* Interpretação de requisitos
-* Capacidade de resolução do problema proposto
-* Atendimento aos requisitos
-* Familiaridade com ferramentas de versionamento de código (Git)
-* Estruturação do código
 * Desenvolver páginas exatamente conforme especificado no projeto gráfico;
 * Desenvolver páginas que são responsivas, ou seja, que adaptam-se para melhor visualização em dispositivos com diferentes resoluções. (Desktop e Mobile)
 * Capacidade de posicionar ícones e ilustrações no formato SVG (pode ser exportado do projeto gráfico)
@@ -40,9 +48,6 @@ Requisitos **fundamentais**:
 * Utilizar um framework ou biblioteca JavaScript de frontend, orientado a componentes para o desenvolvimento de uma Single Page Application, sendo preferencialmente React ou Angular 7.
 
 Requisitos **desejáveis**:
-* Legibilidade de código
-* Documentação de código
-* Testes unitários e de integração
 * Capacidade de evitar requisições redundantes para a API.
 * Utilizar bibliotecas que implementam o padrão [Flux](https://www.google.com/search?q=flux+pattern), como [Redux](https://redux.js.org/) ou [MobX](https://mobx.js.org/getting-started.html).
 * Familiaridade com bibliotecas de desenvolvimento reativo como o [RXJS](https://rxjs-dev.firebaseapp.com/)
