@@ -22,12 +22,12 @@ Requisitos **desejáveis** para todos os níveis:
 
 1. Se não possuir uma conta no [GitLab](https://gitlab.com), cadastre-se.
 2. Informe seu nome de usuário do *GitLab* ao representante da BRy responsável pelo seu processo seletivo, para que sejam dadas permissões para seu usuário.
-3. Faça um *fork* do projeto [desafio-frontend](https://gitlab.com/brytecnologia-team/selecao/desafio-frontend) - isso criará um projeto idêntico no seu repositório pessoal.
+3. Faça um *fork* do projeto [desafio-frontend-pleno](https://gitlab.com/brytecnologia-team/selecao/desafio-frontend-pleno) - isso criará um projeto idêntico no seu repositório pessoal.
 4. Acesse seu *fork*. Observe que, no diretório raiz do projeto, há um arquivo **ENUNCIADO.md** de conteúdo idêntico a este documento.
 5. No seu *fork*, acesse o menu *Settings > Members*.
 6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
-8. Visualize o projeto gráfico do que deve ser desenvolvido [aqui](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=11%3A117). O projeto gráfico é igual para todos os níveis, então preste a atenção nos requisitos de cada nível.
+8. Visualize o projeto gráfico do que deve ser desenvolvido [aqui](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=11%3A117).
 9. Abrir a documentação da [SWAPI](https://swapi.co)
 10. Mãos a obra!
 11. Havendo quaisquer instruções especiais para execução do projeto, descreva-as num arquivo **README.md** na raiz do projeto.
@@ -50,8 +50,7 @@ Requisitos **fundamentais**:
 Requisitos **desejáveis**:
 * Capacidade de evitar requisições redundantes para a API.
 * Utilizar bibliotecas que implementam o padrão [Flux](https://www.google.com/search?q=flux+pattern), como [Redux](https://redux.js.org/) ou [MobX](https://mobx.js.org/getting-started.html).
-* Familiaridade com bibliotecas de desenvolvimento reativo como o [RXJS](https://rxjs-dev.firebaseapp.com/)
-* Desenvolver uma animação no content loading inspirada no do Facebook, como mostra este [GIF](https://madewithnetwork.ams3.cdn.digitaloceanspaces.com//spatie-space-production/1252/ksCklnfNtW.gif)
+* Desenvolver uma animação no content loading inspirada no do Facebook, como mostra este [GIF](https://madewithnetwork.ams3.cdn.digitaloceanspaces.com//spatie-space-production/1252/ksCklnfNtW.gif).
 * Desenvolver uma aplicação web que se comporta como aplicativo nativo (Progressive Web Application).
 
 Estes são os requisitos de todas as páginas envolvidas no desafio:
@@ -70,7 +69,6 @@ Estes são os requisitos de todas as páginas envolvidas no desafio:
   * Deve possuir um campo de busca que filtra tanto os registros dos filmes quanto dos personagens.
     * Para os filmes, o filtro deve ser realizado pelo título.
     * Para os personagens, o filtro deve ser realizado pelo nome.
-    * A busca deve ser realizada conforme o usuário digita, utilizando a técnica ["debounce search input"](https://www.google.com/search?q=debounce+search+input) para evitar que   uma requisição seja enviada a cada tecla digitada.
     * O "content loading" deve ser exibido enquanto carrega o resultado da busca.
   * Ao clicar em um card de um filme, a página de detalhes deve ser exibida.
 
