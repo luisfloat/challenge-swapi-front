@@ -27,7 +27,7 @@ Requisitos **desejáveis**:
 5. No seu *fork*, acesse o menu *Settings > Members*.
 6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
-8. Visualize o projeto gráfico do que deve ser desenvolvido [aqui](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=0%3A1).
+8. Crie uma conta e/ou autentique-se no [Figma](https://www.figma.com/) para acessar o projeto gráfico utilizando este [link](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=0%3A1).
 9. Abrir a documentação da [SWAPI](https://swapi.co)
 10. Mãos a obra!
 11. Havendo quaisquer instruções especiais para execução do projeto, descreva-as num arquivo **README.md** na raiz do projeto.
@@ -43,7 +43,7 @@ Observações:
 Requisitos **fundamentais**:
 * Desenvolver páginas exatamente conforme especificado no projeto gráfico;
 * Desenvolver páginas que são responsivas, ou seja, que adaptam-se para melhor visualização em dispositivos com diferentes resoluções. (Desktop e Mobile)
-* Capacidade de posicionar ícones e ilustrações no formato SVG (pode ser exportado do projeto gráfico)
+* Capacidade de posicionar ícones e ilustrações no formato SVG (pode ser exportado do projeto gráfico, para isso selecione o objeto e clique em Export. Caso surjam dúvidas do projeto gráfico, entrar em contato com o responsável do processo seletivo).
 * Capacidade de consumir a API REST para obter os dados dos filmes e personagens de forma paginada.
 * Utilizar um framework ou biblioteca JavaScript de front-end, orientado a componentes para o desenvolvimento de uma Single Page Application, sendo preferencialmente React ou Angular 7.
 
