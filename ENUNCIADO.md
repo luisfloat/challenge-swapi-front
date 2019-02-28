@@ -1,4 +1,4 @@
-# Desafio - Desenvolvedor Frontend Pleno
+# Desafio - Desenvolvedor Front-end Pleno
 
 Este documento apresenta o desafio técnico pelo qual um candidato a desenvolvedor frontend da BRy Tecnologia deve passar durante o processo seletivo.
 
@@ -16,7 +16,7 @@ Requisitos **desejáveis**:
 * Legibilidade de código
 * Documentação de código
 * Testes unitários e de integração
-* Familiaridade com ferramentas de desenvolvimento frontend
+* Familiaridade com ferramentas de desenvolvimento front-end
 
 ## Como Realizar o Desafio
 
@@ -27,7 +27,7 @@ Requisitos **desejáveis**:
 5. No seu *fork*, acesse o menu *Settings > Members*.
 6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
-8. Visualize o projeto gráfico do que deve ser desenvolvido [aqui](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=11%3A117).
+8. Visualize o projeto gráfico do que deve ser desenvolvido [aqui](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=0%3A1).
 9. Abrir a documentação da [SWAPI](https://swapi.co)
 10. Mãos a obra!
 11. Havendo quaisquer instruções especiais para execução do projeto, descreva-as num arquivo **README.md** na raiz do projeto.
@@ -45,7 +45,7 @@ Requisitos **fundamentais**:
 * Desenvolver páginas que são responsivas, ou seja, que adaptam-se para melhor visualização em dispositivos com diferentes resoluções. (Desktop e Mobile)
 * Capacidade de posicionar ícones e ilustrações no formato SVG (pode ser exportado do projeto gráfico)
 * Capacidade de consumir a API REST para obter os dados dos filmes e personagens de forma paginada.
-* Utilizar um framework ou biblioteca JavaScript de frontend, orientado a componentes para o desenvolvimento de uma Single Page Application, sendo preferencialmente React ou Angular 7.
+* Utilizar um framework ou biblioteca JavaScript de front-end, orientado a componentes para o desenvolvimento de uma Single Page Application, sendo preferencialmente React ou Angular 7.
 
 Requisitos **desejáveis**:
 * Capacidade de evitar requisições redundantes para a API.
