@@ -49,7 +49,6 @@ Requisitos **fundamentais**:
 
 Requisitos **desejáveis**:
 * Capacidade de evitar requisições redundantes para a API.
-* Utilizar bibliotecas que implementam o padrão [Flux](https://www.google.com/search?q=flux+pattern), como [Redux](https://redux.js.org/) ou [MobX](https://mobx.js.org/getting-started.html).
 * Desenvolver uma animação no content loading inspirada no do Facebook, como mostra este [GIF](https://madewithnetwork.ams3.cdn.digitaloceanspaces.com//spatie-space-production/1252/ksCklnfNtW.gif).
 
 Estes são os requisitos de todas as páginas envolvidas no desafio:
