@@ -4,7 +4,7 @@ Este documento apresenta o desafio técnico pelo qual um candidato a desenvolved
 
 Os itens em avaliação são divididos em itens fundamentais (cujo não cumprimento implica desqualificação automática) e itens desejáveis (que não são obrigatórios, mas serão observados e pesarão no processo).
 
-Requisitos **fundamentais** para todos os níveis:
+Requisitos **fundamentais**:
 * Interpretação de texto
 * Interpretação de requisitos
 * Capacidade de resolução do problema proposto
@@ -12,7 +12,7 @@ Requisitos **fundamentais** para todos os níveis:
 * Familiaridade com ferramentas de versionamento de código (Git)
 * Estruturação do código
 
-Requisitos **desejáveis** para todos os níveis:
+Requisitos **desejáveis**:
 * Legibilidade de código
 * Documentação de código
 * Testes unitários e de integração
