@@ -1,6 +1,6 @@
 # Desafio - Desenvolvedor Front-end Pleno
 
-Este documento apresenta o desafio técnico pelo qual um candidato a desenvolvedor frontend da BRy Tecnologia deve passar durante o processo seletivo.
+Este documento apresenta o desafio técnico pelo qual um candidato a desenvolvedor front-end da BRy Tecnologia deve passar durante o processo seletivo.
 
 Os itens em avaliação são divididos em itens fundamentais (cujo não cumprimento implica desqualificação automática) e itens desejáveis (que não são obrigatórios, mas serão observados e pesarão no processo).
 
