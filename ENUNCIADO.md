@@ -41,9 +41,9 @@ Observações:
 ## Requisitos da aplicação
 
 Requisitos **fundamentais**:
-* Desenvolver páginas exatamente conforme especificado no projeto gráfico;
-* Desenvolver páginas que são responsivas, ou seja, que adaptam-se para melhor visualização em dispositivos com diferentes resoluções. (Desktop e Mobile)
-* Capacidade de posicionar ícones e ilustrações no formato SVG (pode ser exportado do projeto gráfico, para isso selecione o objeto e clique em Export. Caso surjam dúvidas do projeto gráfico, entrar em contato com o responsável do processo seletivo).
+* Será considerado o desenvolvimento com fidelidade ao projeto gráfico. Observe a página Instruções no projeto.
+* Projeto mobile first e responsivo.
+* Utilizar imagens em SVG. 
 * Capacidade de consumir a API REST para obter os dados dos filmes e personagens de forma paginada.
 * Utilizar um framework ou biblioteca JavaScript de front-end, orientado a componentes para o desenvolvimento de uma Single Page Application, sendo preferencialmente React ou Angular 7.
 
