@@ -27,7 +27,7 @@ Requisitos **desejáveis**:
 5. No seu *fork*, acesse o menu *Settings > Members*.
 6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
-8. Crie uma conta e/ou autentique-se no [Figma](https://www.figma.com/) para acessar o projeto gráfico utilizando este [link](https://www.figma.com/file/f8RxcKAz9JSWuRgM0DFtzxmJ/teste-front-end?node-id=0%3A1).
+8. Crie uma conta e/ou autentique-se no [Figma](https://www.figma.com/) para acessar o projeto gráfico utilizando este [link](https://www.figma.com/file/yWrBerebGXbyqPnXG5ZKWE/teste-front-end?node-id=0%3A1).
 9. Abrir a documentação da [SWAPI](https://swapi.co)
 10. Mãos a obra!
 11. Havendo quaisquer instruções especiais para execução do projeto, descreva-as num arquivo **README.md** na raiz do projeto.
