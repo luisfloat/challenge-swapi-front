@@ -28,7 +28,7 @@ Requisitos **desejáveis**:
 6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
 8. Crie uma conta e/ou autentique-se no [Figma](https://www.figma.com/) para acessar o projeto gráfico utilizando este [link](https://www.figma.com/file/yWrBerebGXbyqPnXG5ZKWE/teste-front-end?node-id=0%3A1).
-9. Abrir a documentação da [SWAPI](https://swapi.co)
+9. Abrir a documentação da [SWAPI](https://swapi.bry.com.br)
 10. Mãos a obra!
 11. Havendo quaisquer instruções especiais para execução do projeto, descreva-as num arquivo **README.md** na raiz do projeto.
 12. Ao final do desafio, faça um *push* do seu projeto e notifique o representante da BRy responsável pelo seu processo seletivo de que você terminou o desafio.
