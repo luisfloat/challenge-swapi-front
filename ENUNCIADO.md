@@ -25,7 +25,7 @@ Requisitos **desejáveis**:
 3. Faça um *fork* do projeto [desafio-frontend-pleno](https://gitlab.com/brytecnologia-team/selecao/desafio-frontend-pleno) - isso criará um projeto idêntico no seu repositório pessoal.
 4. Acesse seu *fork*. Observe que, no diretório raiz do projeto, há um arquivo **ENUNCIADO.md** de conteúdo idêntico a este documento.
 5. No seu *fork*, acesse o menu *Settings > Members*.
-6. Adicione o usuário **brytecnologia** como membro *Guest* do projeto, para que possamos acompanhar seu desenvolvimento.
+6. Adicione o usuário **brytecnologia** como membro *Maintainer* do projeto, para que possamos acompanhar seu desenvolvimento.
 7. Clone o projeto em sua máquina.
 8. Crie uma conta e/ou autentique-se no [Figma](https://www.figma.com/) para acessar o projeto gráfico utilizando este [link](https://www.figma.com/file/yWrBerebGXbyqPnXG5ZKWE/teste-front-end?node-id=0%3A1).
 9. Abrir a documentação da [SWAPI](https://swapi.bry.com.br)
