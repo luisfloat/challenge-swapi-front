@@ -129,6 +129,7 @@ const Home = () => {
             <Carousel
               itemsPerPage={3}
               showArrows={!filmsResultsQuery.isLoading}
+              infinite={(filmsResultsQuery.data?.length || 0) > 1}
             >
               {SkeletonGroup({
                 data: filmsResultsQuery.data,
