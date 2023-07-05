@@ -2,6 +2,9 @@
 
 It's a front-end SPA for SWAPI.
 
+You can try it here:
+[swapi.luisfloat.com](https://swapi.luisfloat.com)
+
 ## Technologies
 
 * **JavaScript, TypeScript and TSX** as language;
