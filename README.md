@@ -1,40 +1,45 @@
-# SWAPI Front
+# Challenge: Displaying Star Wars Data with React
 
-It's a front-end SPA for SWAPI.
+This is a simple single-page application (SPA) built with React that allows you to explore some data from the Star Wars API (SWAPI). Browse films and characters.
 
-You can try it here:
-[swapi.luisfloat.com](https://swapi.luisfloat.com)
+You can try it out live here: [swapi-react.luisfuturist.com](https://swapi-react.luisfuturist.com)
 
-## Technologies
+## Development Setup
 
-* **JavaScript, TypeScript and TSX** as language;
-* **React and ReactDOM** as library for building Web UI;
-* **Zustand** for state management;
-* **React Query** for asynchronous state management;
-* **React Hook Form** as form library;
-* **React Use** as hook library;
-* **React Router** as routing library
-* **react-multi-carousel**: for carousel component;
-* **Tailwind** as CSS framework;
-* **Moment** as date utility library;
-* **swapi-ts** for SWAPI type declarations;
-* **Vite** for dev server, building and previewing;
+### Prerequisites
 
-## Installation
+- Node.js and npm (or pnpm) installed on your system.
+
+### Installation
 
 ```bash
-git clone https://gitlab.com/luisfloat/swapi-front.git
-cd swapi-front/
+git clone https://github.com/luisfuturist/challenge-swapi-react.git
+cd challenge-swapi-react/
 npm install
 ```
 
-## Usage
+### Scripts
 
 Name | Script | Description
 -----|---------|-----------------
 `dev` | ```npm run dev``` | Enable source code watch and live-reload
 `build` | ```npm run build``` | Build into `dist/`
 
-## Author
+## Technology Stack
 
-<a href="https://twitter.com/luisfloat"><img src="https://img.shields.io/badge/-Twitter-333333?style=flat-square&amp;logo=twitter" alt="Twitter"/></a> <a href="https://github.com/luisfloat"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&amp;logo=github" alt="GitHub"/></a> <a href="https://instagram.com/luisfloat"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&amp;logo=instagram" alt="Instagram"/></a> <a href="mailto:contact@luisfloat.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=flat-square&amp;logo=gmail" alt="Gmail"/></a>
+This project utilizes a combination of modern frontend libraries and tools to deliver a smooth and interactive user experience.
+
+* **Frontend:**
+  * **JavaScript, TypeScript & TSX:** The core building blocks for the application logic and user interface. TypeScript provides static typing for improved code maintainability and developer experience.
+  * **React & ReactDOM:** The foundation for building the user interface components. React allows for the creation of reusable and composable UI elements.
+  * **Zustand:** A lightweight state management solution for managing application state in a centralized and predictable manner.
+  * **React Query:** Facilitates managing asynchronous data fetching and provides features like caching and refetching for optimal performance.
+  * **React Hook Form:** Simplifies form handling and validation within React components.
+  * **React Use:** A collection of custom React hooks offering additional functionalities for common use cases.
+  * **React Router:** Enables navigation between different views and components within the single-page application.
+  * **react-multi-carousel:** Provides a customizable carousel component for displaying collections of data with a swiping or scrolling interface.
+  * **Tailwind CSS:** A utility-first CSS framework offering rapid and responsive UI development.
+  * **Moment.js:** A utility library for parsing, formatting, and manipulating date and time information.
+* **Development Tools:**
+  * **swapi-ts:** Type definitions for the SWAPI API, ensuring type safety and improved code reliability when interacting with the Star Wars data.
+  * **Vite:** A lightning-fast development server and build tool that streamlines the development workflow with features like hot module replacement and efficient production builds.
